@@ -11,7 +11,6 @@
         <li>
             <strong>Create a Documentation File:</strong>
             <ul>
-                <li>Add a new file named <code>AZURE_VNET.md</code> or <code>docs/azure-virtual-network.md</code> in your repository.</li>
             </ul>
         </li>
         <li>
