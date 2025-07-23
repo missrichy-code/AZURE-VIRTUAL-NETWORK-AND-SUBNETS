@@ -1,12 +1,6 @@
 # AZURE-VIRTUAL-NETWORK-AND-SUBNETS
 HOW TO CREATE A AZURE VIRTUAL NETWORK AND SUBNETS
     <title>How to Create Azure Virtual Network and Subnets</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 2em; }
-        h1 { color: #0078d4; }
-        code, pre { background: #f4f4f4; padding: 2px 6px; border-radius: 4px; }
-        ol { margin-left: 1.5em; }
-    </style>
 </head>
 <body>
     <h1>How to Create Azure Virtual Network and Subnet </h1>
