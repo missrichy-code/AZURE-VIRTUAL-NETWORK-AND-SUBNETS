@@ -1,6 +1,6 @@
 # AZURE-VIRTUAL-NETWORK-AND-SUBNETS
 HOW TO CREATE A AZURE VIRTUAL NETWORK AND SUBNETS
-    <title>How to Create Azure Virtual Network and Subnets</title>
+   
 </head>
 <body>
     <h1>How to Create Azure Virtual Network and Subnet </h1>
