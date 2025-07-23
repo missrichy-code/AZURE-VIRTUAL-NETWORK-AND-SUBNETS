@@ -9,14 +9,14 @@
     </p>
     <ol>
         <li>
-            <strong>Create a Documentation File:</strong>
             <ul>
             </ul>
         </li>
         <li>
             <strong>Include Key Sections:</strong>
             <ul>
-                <li><strong>Overview:</strong> Briefly describe what an Azure Virtual Network (VNet) and subnet are, and their purpose in your project.</li>
+                <li><strong>Overview:</strong> Briefly describe what an Azure Virtual Network (VNet) and subnet are,Azure Virtual Network (VNet) is a fundamental building block for your private network in Azure. It enables Azure resources like virtual machines to securely communicate with each other, the internet, and on-premises networks. VNets are isolated from one another, providing security and segmentation. 
+                   Subnets are subdivisions within a VNet. They allow you to segment the virtual network into smaller, manageable sections. Each subnet can host resources and apply specific security or routing policies, helping organize and secure your network infrastructure. And the purpose of them in my project.</li>
                 <li><strong>Prerequisites:</strong> List requirements such as an Azure account, Azure CLI, and necessary permissions.</li>
                 <li><strong>Creation Steps:</strong> Provide step-by-step instructions to create a VNet and subnet. For example:
                     <pre>
