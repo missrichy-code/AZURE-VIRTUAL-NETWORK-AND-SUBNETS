@@ -1,6 +1,5 @@
 # AZURE-VIRTUAL-NETWORK-AND-SUBNETS
 HOW TO CREATE A AZURE VIRTUAL NETWORK AND SUBNETS
-    <meta charset="UTF-8">
     <title>How to Create Azure Virtual Network and Subnets</title>
     <style>
         body { font-family: Arial, sans-serif; margin: 2em; }
@@ -10,9 +9,9 @@ HOW TO CREATE A AZURE VIRTUAL NETWORK AND SUBNETS
     </style>
 </head>
 <body>
-    <h1>How to Create Azure Virtual Network and Subnet Documentation in Your GitHub Repository</h1>
+    <h1>How to Create Azure Virtual Network and Subnet </h1>
     <p>
-        Follow these steps to add Azure Virtual Network and Subnet documentation to your GitHub repository:
+        Follow these steps to add Azure Virtual Network and Subnet:
     </p>
     <ol>
         <li>
