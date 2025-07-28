@@ -8,7 +8,7 @@
         Follow these steps to add Azure Virtual Network and Subnet:
     </p>
     <ol>
-        <li> Aim of project: To setup
+            <l> Aim of project: To Setup A Secure Cloud Infracstructure For A inancial Institute
             <ul>
             </ul>
             <ul>
