@@ -64,31 +64,7 @@ Put your password
 <img width="816" height="425" alt="Screenshot 2025-07-25 111945" src="https://github.com/user-attachments/assets/aedefb15-e2b1-4d6b-a78d-116ff8633418" />
 With this you've created a secure server for the Financial Institution
 
-az group create --name &lt;resource-group&gt; --location &lt;location&gt;
-az network vnet create --resource-group &lt;resource-group&gt; --name &lt;vnet-name&gt; --address-prefix &lt;address-prefix&gt;
-az network vnet subnet create --resource-group &lt;resource-group&gt; --vnet-name &lt;vnet-name&gt; --name &lt;subnet-name&gt; --address-prefix &lt;subnet-prefix&gt;
-                    </pre>
-                </li>
-                <li><strong>Configuration:</strong> Explain how to configure network security groups, route tables, and other settings.</li>
-                <li><strong>Troubleshooting:</strong> Add common issues and solutions.</li>
-                <li><strong>References:</strong> Link to official Azure documentation.</li>
-            </ul>
-        </li>
-        <li>
-            <strong>Commit and Push:</strong>
-            <ul>
-                <li>Commit your documentation file and push it to your GitHub repository.</li>
-            </ul>
-        </li>
-        <li>
-            <strong>Keep Documentation Updated:</strong>
-            <ul>
-                <li>Update the documentation as your network setup or configuration changes.</li>
-            </ul>
-        </li>
-    </ol>
-    <p>
-        For more details, see the <a href="https://learn.microsoft.com/en-us/azure/virtual-network/">Azure Virtual Network Documentation</a>.
+For more details, see the <a href="https://learn.microsoft.com/en-us/azure/virtual-network/">Azure Virtual Network Documentation</a>.
     </p>
 </body>
 </html>
