@@ -64,6 +64,8 @@ Put your password
 <img width="816" height="425" alt="Screenshot 2025-07-25 111945" src="https://github.com/user-attachments/assets/aedefb15-e2b1-4d6b-a78d-116ff8633418" />
 With this you've created a secure server for the Financial Institution
 
+
+
 For more details, see the <a href="https://learn.microsoft.com/en-us/azure/virtual-network/">Azure Virtual Network Documentation</a>.
     </p>
 </body>
