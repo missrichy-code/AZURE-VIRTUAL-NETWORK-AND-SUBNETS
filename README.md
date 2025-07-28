@@ -6,7 +6,7 @@
     <h1>How to Create Azure Virtual Network and Subnet </h1>
     </p>
     <ol>
-               <l>   Aim Of Project: To Setup A Secure Cloud Infracstructure For A Financial Institute
+               <l>   Aim Of Project: To Setup A Cloud Infracstructure For A Financial Institute Using Enhanced Security Measures
             <ul>
             </ul>
             <ul>
