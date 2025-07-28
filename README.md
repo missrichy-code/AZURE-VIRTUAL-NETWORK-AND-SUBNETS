@@ -26,6 +26,8 @@ Create a new Resource group
 Goto instance detail and give it a VM name 
 Select your desired region
 Click on next (Security)
+Enable Azure Bastion
+<img width="758" height="365" alt="2Screenshot 2025-07-25 103310" src="https://github.com/user-attachments/assets/a550feec-ea8e-4d4b-b1be-18320f11c6b4" />
 Enable Azure Firewall
 <img width="778" height="386" alt="4Screenshot 2025-07-25 103345" src="https://github.com/user-attachments/assets/dd14a3b9-d3f2-4c3b-8a15-d5a418040159" />
 Enable DDOS Network Protection
